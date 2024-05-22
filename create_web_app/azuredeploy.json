@@ -38,7 +38,7 @@
       "properties": {
         "mode": "Incremental",
         "templateLink": {
-          "relativePath": "linkedStorageAccount.json"
+                 "uri": "https://raw.githubusercontent.com/testkenji-shimura/test/main/create_web_app/linkedStorageAccount.json"
         },
         "parameters": {
           "storageAccountName": {
