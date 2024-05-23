@@ -20,7 +20,7 @@ steps:
     location: 'Japan East'
     templateLocation: 'URL of the file'
     overrideParameters: '-projectName Shimura'
-    csmFileLink: 'https://github.com/testkenji-shimura/test/blob/main/create_web_app/azuredeploy.json'
+    csmFileLink: 'https://raw.githubusercontent.com/testkenji-shimura/test/main/create_web_app/azuredeploy.json'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
 
