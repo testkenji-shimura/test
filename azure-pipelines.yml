@@ -19,7 +19,7 @@ steps:
     resourceGroupName: 'rg-shimu-cicd'
     location: 'Japan East'
     templateLocation: 'URL of the file'
-    overrideParameters: '-projectName Shimura'
+    overrideParameters: '-projectName shimu'
     csmFileLink: 'https://raw.githubusercontent.com/testkenji-shimura/test/main/create_web_app/azuredeploy.json'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
